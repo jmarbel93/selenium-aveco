@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Selenium-specific files
+chromedriver
+chromedriver.exe
+geckodriver
+geckodriver.exe
+selenium-server-standalone.jar
+
+# Logs and crash reports
+logs/
+*.log
+
+# Python package files
+*.egg-info/
+*.egg
+*.whl
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Test reports
+htmlcov/
+.coverage
+
+# Cache files
+pip-log.txt
+pip-delete-this-directory.txt
+__pypackages__/
+
+# Custom environment variables
+.env
+*.env
+
+# Pytest
+.pytest_cache/
