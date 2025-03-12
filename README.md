@@ -10,9 +10,9 @@
 
 ### 1. Clone the Repository
 ```sh
-git clone <repository_url>
+git clone https://github.com/jmarbel93/selenium-aveco.git
 cd <repository_name>
-Note that the repository url is empty not by an error but because it depends the way that the user decides to clone the repository. In the next PR i will delete this line.
+
 ```
 
 ### 2. Create a Virtual Environment

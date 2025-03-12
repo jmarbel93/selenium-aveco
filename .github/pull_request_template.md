@@ -1,6 +1,9 @@
+**IMPORTANT: Please fill in all required fields. Then delete this comment**
 
-
-# Hotfix - Added tracking of folders,  some files and a goat
+# [Feature/Bug-Fix/Release/Hotfix/Experiment] - [Title]
 
 ## Description
-This hotfix fix the things thtat the previous PR was missing.
+
+__Please provide enough information and context so that others can review your pull request easily__
+
+__Refer to [Estrategias de nomenclatura](https://dev.to/marmariadev/estrategias-de-nomenclatura-para-ramas-en-git-mejorando-la-gestion-de-proyectos-de-software-3efa)__
