@@ -1,6 +1,6 @@
-**IMPORTANT: Please fill in all required fields. Then delete this comment**
 
-# [Feature] - [Starting Selenium]
+
+# Hotfix - Added tracking of folders,  some files and a goat
 
 ## Description
-This branch starts the new learning path. Added gitignore, requirements file and folders structure
+This hotfix fix the things thtat the previous PR was missing.
